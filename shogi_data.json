@@ -1,6 +1,6 @@
 {
-  "dataVersion": 10,
-  "updatedAt": "2026-07-20",
+  "dataVersion": 11,
+  "updatedAt": "2026-07-30",
   "yearLabel": "2026年度",
   "titles": [
     {
@@ -299,8 +299,8 @@
       "sponsor": "新聞三社連合",
       "broadcast": "ABEMA・囲碁将棋プラスで中継予定",
       "note": "藤井王位は7連覇、伊藤二冠は三冠を懸けた七番勝負",
-      "holderWins": 0,
-      "challengerWins": 0,
+      "holderWins": 2,
+      "challengerWins": 1,
       "games": [
         {
           "game": 1,
@@ -368,7 +368,10 @@
           "days": 2,
           "venue": "登別グランドホテル",
           "city": "北海道登別市",
-          "result": null
+          "result": "holder",
+          "moves": 151,
+          "opening": "角換わり",
+          "summary": "角換わりから伊藤の右玉に藤井が長考で応戦。最終盤の激しい攻め合いを藤井が渾身の角打ちで抜け出し、151手でシリーズ2勝目を挙げた。"
         },
         {
           "game": 4,

@@ -1,6 +1,6 @@
 {
-  "dataVersion": 12,
-  "updatedAt": "2026-08-09",
+  "dataVersion": 13,
+  "updatedAt": "2026-08-16",
   "yearLabel": "2026年度",
   "titles": [
     {
@@ -420,7 +420,7 @@
       "status": "upcoming",
       "sponsor": "日本経済新聞社",
       "broadcast": "ABEMA・囲碁将棋プラスで中継予定",
-      "note": "挑戦者は広瀬章人九段に決定。五番勝負第1局は9月2日開幕(第2局以降の日程は未発表)",
+      "note": "挑戦者は広瀬章人九段に決定。五番勝負第1局は9月2日開幕、全5局の日程・会場が発表済み",
       "holderWins": 0,
       "challengerWins": 0,
       "games": [
@@ -430,6 +430,38 @@
           "days": 1,
           "venue": "元湯陣屋",
           "city": "神奈川県秦野市",
+          "result": null
+        },
+        {
+          "game": 2,
+          "start": "2026-09-15",
+          "days": 1,
+          "venue": "名古屋マリオットアソシアホテル",
+          "city": "愛知県名古屋市",
+          "result": null
+        },
+        {
+          "game": 3,
+          "start": "2026-10-02",
+          "days": 1,
+          "venue": "ニセコ温泉郷 いこいの湯宿 いろは",
+          "city": "北海道虻田郡ニセコ町",
+          "result": null
+        },
+        {
+          "game": 4,
+          "start": "2026-10-14",
+          "days": 1,
+          "venue": "ホテルオークラ神戸",
+          "city": "兵庫県神戸市",
+          "result": null
+        },
+        {
+          "game": 5,
+          "start": "2026-10-27",
+          "days": 1,
+          "venue": "常磐ホテル",
+          "city": "山梨県甲府市",
           "result": null
         }
       ]

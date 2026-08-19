@@ -1,6 +1,6 @@
 {
-  "dataVersion": 13,
-  "updatedAt": "2026-08-16",
+  "dataVersion": 14,
+  "updatedAt": "2026-08-19",
   "yearLabel": "2026年度",
   "titles": [
     {
@@ -300,7 +300,7 @@
       "broadcast": "ABEMA・囲碁将棋プラスで中継予定",
       "note": "藤井王位は7連覇、伊藤二冠は三冠を懸けた七番勝負",
       "holderWins": 2,
-      "challengerWins": 1,
+      "challengerWins": 2,
       "games": [
         {
           "game": 1,
@@ -379,7 +379,10 @@
           "days": 2,
           "venue": "ガーデンテラス長崎ホテル&リゾート",
           "city": "長崎県長崎市",
-          "result": null
+          "result": "challenger",
+          "moves": 143,
+          "opening": "相掛かり",
+          "summary": "伊藤の先手番から相掛かりの激戦に。2日目は藤井が銀のタダ捨てで食い下がったが、伊藤が143手で押し切りシリーズを2勝2敗のタイに戻した。"
         },
         {
           "game": 5,

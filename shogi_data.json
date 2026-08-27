@@ -1,6 +1,6 @@
 {
-  "dataVersion": 14,
-  "updatedAt": "2026-08-19",
+  "dataVersion": 15,
+  "updatedAt": "2026-08-27",
   "yearLabel": "2026年度",
   "titles": [
     {
@@ -299,7 +299,7 @@
       "sponsor": "新聞三社連合",
       "broadcast": "ABEMA・囲碁将棋プラスで中継予定",
       "note": "藤井王位は7連覇、伊藤二冠は三冠を懸けた七番勝負",
-      "holderWins": 2,
+      "holderWins": 3,
       "challengerWins": 2,
       "games": [
         {
@@ -390,7 +390,10 @@
           "days": 2,
           "venue": "渭水苑",
           "city": "徳島県徳島市",
-          "result": null
+          "result": "holder",
+          "moves": 93,
+          "opening": "角換わり",
+          "summary": "角換わりから藤井が39手目で飛車を下段に引き、63手目の頭突きで打開。67手目の封じ手を経て93手で伊藤を降し、3勝2敗として7連覇に王手をかけた。"
         },
         {
           "game": 6,

@@ -1,6 +1,6 @@
 {
-  "dataVersion": 15,
-  "updatedAt": "2026-08-27",
+  "dataVersion": 16,
+  "updatedAt": "2026-08-30",
   "yearLabel": "2026年度",
   "titles": [
     {
@@ -12,11 +12,11 @@
       "bestOf": 7,
       "holder": "藤井聡太",
       "holderTerms": 5,
-      "challenger": null,
+      "challenger": "服部慎一郎",
       "status": "upcoming",
       "sponsor": "読売新聞社",
       "broadcast": "ABEMA・囲碁将棋プラスで中継予定",
-      "note": "挑戦者決定トーナメント進行中(挑戦者は8月下旬~9月決定予定)。七番勝負は10月9日開幕、全7局の日程・会場が発表済み",
+      "note": "挑戦者は服部慎一郎七段に決定(棋聖戦に続き自身2度目のタイトル挑戦)。七番勝負は10月9日開幕、全7局の日程・会場が発表済み",
       "holderWins": 0,
       "challengerWins": 0,
       "games": [

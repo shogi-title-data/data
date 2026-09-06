@@ -1,6 +1,6 @@
 {
-  "dataVersion": 17,
-  "updatedAt": "2026-09-02",
+  "dataVersion": 18,
+  "updatedAt": "2026-09-06",
   "yearLabel": "2026年度",
   "titles": [
     {
@@ -600,10 +600,67 @@
       "status": "upcoming",
       "sponsor": "スポーツニッポン新聞社・毎日新聞社",
       "broadcast": "ABEMA・囲碁将棋プラスで中継予定",
-      "note": "挑戦者決定リーグ進行中。七番勝負は2027年1月開幕予定",
+      "note": "挑戦者決定リーグ進行中。七番勝負は2027年1月11日開幕、全7局の日程・会場が発表済み",
       "holderWins": 0,
       "challengerWins": 0,
-      "games": []
+      "games": [
+        {
+          "game": 1,
+          "start": "2027-01-11",
+          "days": 2,
+          "venue": "さんべ荘",
+          "city": "島根県大田市",
+          "result": null
+        },
+        {
+          "game": 2,
+          "start": "2027-01-23",
+          "days": 2,
+          "venue": "伏見稲荷大社",
+          "city": "京都府京都市",
+          "result": null
+        },
+        {
+          "game": 3,
+          "start": "2027-02-02",
+          "days": 2,
+          "venue": "オーベルジュときと",
+          "city": "東京都立川市",
+          "result": null
+        },
+        {
+          "game": 4,
+          "start": "2027-02-15",
+          "days": 2,
+          "venue": "温泉旅館矢野",
+          "city": "北海道松前郡松前町",
+          "result": null
+        },
+        {
+          "game": 5,
+          "start": "2027-03-06",
+          "days": 2,
+          "venue": "掛川城二の丸茶室",
+          "city": "静岡県掛川市",
+          "result": null
+        },
+        {
+          "game": 6,
+          "start": "2027-03-18",
+          "days": 2,
+          "venue": "ホテル花月",
+          "city": "栃木県大田原市",
+          "result": null
+        },
+        {
+          "game": 7,
+          "start": "2027-03-30",
+          "days": 2,
+          "venue": "将棋会館",
+          "city": "東京都渋谷区",
+          "result": null
+        }
+      ]
     }
   ]
 }

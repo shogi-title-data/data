@@ -1,6 +1,6 @@
 {
-  "dataVersion": 18,
-  "updatedAt": "2026-09-06",
+  "dataVersion": 19,
+  "updatedAt": "2026-09-09",
   "yearLabel": "2026年度",
   "titles": [
     {
@@ -293,13 +293,13 @@
       "term": 67,
       "bestOf": 7,
       "holder": "藤井聡太",
-      "holderTerms": 6,
+      "holderTerms": 7,
       "challenger": "伊藤匠",
-      "status": "ongoing",
+      "status": "finished",
       "sponsor": "新聞三社連合",
       "broadcast": "ABEMA・囲碁将棋プラスで中継予定",
-      "note": "藤井王位は7連覇、伊藤二冠は三冠を懸けた七番勝負",
-      "holderWins": 3,
+      "note": "藤井王位が4-2で防衛(7連覇)",
+      "holderWins": 4,
       "challengerWins": 2,
       "games": [
         {
@@ -401,15 +401,10 @@
           "days": 2,
           "venue": "元湯 陣屋",
           "city": "神奈川県秦野市",
-          "result": null
-        },
-        {
-          "game": 7,
-          "start": "2026-09-28",
-          "days": 2,
-          "venue": "常磐ホテル",
-          "city": "山梨県甲府市",
-          "result": null
+          "result": "holder",
+          "moves": 140,
+          "opening": "角換わり相早繰り銀",
+          "summary": "伊藤の早繰り銀による激しい攻めを藤井が受け止めて反撃に転じ、140手で制して4勝2敗で防衛。自身最多タイとなる7連覇を達成した。"
         }
       ]
     },

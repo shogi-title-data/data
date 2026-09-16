@@ -1,6 +1,6 @@
 {
-  "dataVersion": 19,
-  "updatedAt": "2026-09-09",
+  "dataVersion": 20,
+  "updatedAt": "2026-09-16",
   "yearLabel": "2026年度",
   "titles": [
     {
@@ -422,7 +422,7 @@
       "sponsor": "日本経済新聞社",
       "broadcast": "ABEMA・囲碁将棋プラスで中継予定",
       "note": "挑戦者は広瀬章人九段に決定。五番勝負第1局は9月2日開幕、全5局の日程・会場が発表済み",
-      "holderWins": 0,
+      "holderWins": 1,
       "challengerWins": 1,
       "games": [
         {
@@ -442,7 +442,10 @@
           "days": 1,
           "venue": "名古屋マリオットアソシアホテル",
           "city": "愛知県名古屋市",
-          "result": null
+          "result": "holder",
+          "moves": 115,
+          "opening": "角換わり早繰り銀",
+          "summary": "伊藤の角換わり早繰り銀に広瀬が安定した玉形を生かし猛攻をかけたが、最終盤の誤算を突いた伊藤が115手で劇的な逆転勝ちを収め、1勝1敗とした。"
         },
         {
           "game": 3,

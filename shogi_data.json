@@ -1,5 +1,5 @@
 {
-  "dataVersion": 21,
+  "dataVersion": 22,
   "updatedAt": "2026-10-02",
   "yearLabel": "2026年度",
   "titles": [
@@ -453,7 +453,10 @@
           "days": 1,
           "venue": "ニセコ温泉郷 いこいの湯宿 いろは",
           "city": "北海道虻田郡ニセコ町",
-          "result": "holder"
+          "result": "holder",
+          "moves": 100,
+          "opening": "相掛かり",
+          "summary": "相掛かりから千日手含みの激戦に。昼食後に広瀬が打開を選んだが、伊藤が研究の深さで上回り優勢を拡大。100手で制し2勝1敗とした。"
         },
         {
           "game": 4,

@@ -1,6 +1,6 @@
 {
-  "dataVersion": 20,
-  "updatedAt": "2026-09-16",
+  "dataVersion": 21,
+  "updatedAt": "2026-10-02",
   "yearLabel": "2026年度",
   "titles": [
     {
@@ -422,7 +422,7 @@
       "sponsor": "日本経済新聞社",
       "broadcast": "ABEMA・囲碁将棋プラスで中継予定",
       "note": "挑戦者は広瀬章人九段に決定。五番勝負第1局は9月2日開幕、全5局の日程・会場が発表済み",
-      "holderWins": 1,
+      "holderWins": 2,
       "challengerWins": 1,
       "games": [
         {
@@ -453,7 +453,7 @@
           "days": 1,
           "venue": "ニセコ温泉郷 いこいの湯宿 いろは",
           "city": "北海道虻田郡ニセコ町",
-          "result": null
+          "result": "holder"
         },
         {
           "game": 4,

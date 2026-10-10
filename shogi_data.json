@@ -1,5 +1,5 @@
 {
-  "dataVersion": 23,
+  "dataVersion": 24,
   "updatedAt": "2026-10-10",
   "yearLabel": "2026年度",
   "titles": [
@@ -27,6 +27,7 @@
           "venue": "セルリアンタワー能楽堂",
           "city": "東京都渋谷区",
           "result": "holder",
+          "moves": 113,
           "opening": "力戦",
           "summary": "藤井竜王の先手番。服部が角換わりを避けて力戦に持ち込む趣向を見せたが、2日目に藤井が端角を足がかりに主導権を握り、先勝を飾った。"
         },

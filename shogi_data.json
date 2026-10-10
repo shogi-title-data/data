@@ -1,6 +1,6 @@
 {
-  "dataVersion": 22,
-  "updatedAt": "2026-10-02",
+  "dataVersion": 23,
+  "updatedAt": "2026-10-10",
   "yearLabel": "2026年度",
   "titles": [
     {
@@ -13,11 +13,11 @@
       "holder": "藤井聡太",
       "holderTerms": 5,
       "challenger": "服部慎一郎",
-      "status": "upcoming",
+      "status": "ongoing",
       "sponsor": "読売新聞社",
       "broadcast": "ABEMA・囲碁将棋プラスで中継予定",
-      "note": "挑戦者は服部慎一郎七段に決定(棋聖戦に続き自身2度目のタイトル挑戦)。七番勝負は10月9日開幕、全7局の日程・会場が発表済み",
-      "holderWins": 0,
+      "note": "挑戦者は服部慎一郎七段に決定(棋聖戦に続き自身2度目のタイトル挑戦)。七番勝負は10月9日開幕、全7局の日程・会場が発表済み。第1局は藤井竜王が先勝",
+      "holderWins": 1,
       "challengerWins": 0,
       "games": [
         {
@@ -26,7 +26,9 @@
           "days": 2,
           "venue": "セルリアンタワー能楽堂",
           "city": "東京都渋谷区",
-          "result": null
+          "result": "holder",
+          "opening": "力戦",
+          "summary": "藤井竜王の先手番。服部が角換わりを避けて力戦に持ち込む趣向を見せたが、2日目に藤井が端角を足がかりに主導権を握り、先勝を飾った。"
         },
         {
           "game": 2,

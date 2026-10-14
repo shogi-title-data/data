@@ -1,6 +1,6 @@
 {
-  "dataVersion": 24,
-  "updatedAt": "2026-10-10",
+  "dataVersion": 25,
+  "updatedAt": "2026-10-14",
   "yearLabel": "2026年度",
   "titles": [
     {
@@ -424,9 +424,9 @@
       "status": "ongoing",
       "sponsor": "日本経済新聞社",
       "broadcast": "ABEMA・囲碁将棋プラスで中継予定",
-      "note": "挑戦者は広瀬章人九段に決定。五番勝負第1局は9月2日開幕、全5局の日程・会場が発表済み",
+      "note": "挑戦者は広瀬章人九段に決定。五番勝負第1局は9月2日開幕、全5局の日程・会場が発表済み。第4局は広瀬が制し2勝2敗のタイ、決着は第5局(10月27日・甲府)に持ち越し",
       "holderWins": 2,
-      "challengerWins": 1,
+      "challengerWins": 2,
       "games": [
         {
           "game": 1,
@@ -467,7 +467,10 @@
           "days": 1,
           "venue": "ホテルオークラ神戸",
           "city": "兵庫県神戸市",
-          "result": null
+          "result": "challenger",
+          "moves": 94,
+          "opening": "相掛かり",
+          "summary": "相掛かりの一局。夕食休憩明けに形勢が動く難解な終盤戦となり、広瀬が銀を繰り出す切り合いを制して94手で伊藤を降し、シリーズを2勝2敗のタイに戻した。"
         },
         {
           "game": 5,

@@ -1,6 +1,6 @@
 {
-  "dataVersion": 26,
-  "updatedAt": "2026-10-23",
+  "dataVersion": 27,
+  "updatedAt": "2026-10-27",
   "yearLabel": "2026年度",
   "titles": [
     {
@@ -421,15 +421,15 @@
       "rank": 5,
       "term": 74,
       "bestOf": 5,
-      "holder": "伊藤匠",
+      "holder": "広瀬章人",
       "holderTerms": 1,
       "challenger": "広瀬章人",
-      "status": "ongoing",
+      "status": "finished",
       "sponsor": "日本経済新聞社",
       "broadcast": "ABEMA・囲碁将棋プラスで中継予定",
-      "note": "挑戦者は広瀬章人九段に決定。五番勝負第1局は9月2日開幕、全5局の日程・会場が発表済み。第4局は広瀬が制し2勝2敗のタイ、決着は第5局(10月27日・甲府)に持ち越し",
+      "note": "広瀬章人九段が3-2で王座を奪取。伊藤匠は初防衛に失敗し一冠に後退",
       "holderWins": 2,
-      "challengerWins": 2,
+      "challengerWins": 3,
       "games": [
         {
           "game": 1,
@@ -481,7 +481,10 @@
           "days": 1,
           "venue": "常磐ホテル",
           "city": "山梨県甲府市",
-          "result": null
+          "result": "challenger",
+          "moves": 121,
+          "opening": "相掛かり",
+          "summary": "振り駒で広瀬が先手となり相掛かりの一局に。伊藤の猛攻を最終盤の香打ちでしのいだ広瀬が121手で制し、3勝2敗で王座を奪取した。"
         }
       ]
     },

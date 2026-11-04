@@ -1,5 +1,5 @@
 {
-  "dataVersion": 28,
+  "dataVersion": 29,
   "updatedAt": "2026-11-04",
   "yearLabel": "2026年度",
   "titles": [
@@ -49,6 +49,7 @@
           "venue": "総本山仁和寺",
           "city": "京都府京都市",
           "result": "holder",
+          "moves": 119,
           "opening": "角換わり",
           "summary": "京都・仁和寺での一局は藤井竜王の先手番。角換わりから穴熊に構えて主導権を握り、2日目に攻勢を強めて服部を下し、3連勝で6連覇に王手をかけた。"
         },

@@ -1,6 +1,6 @@
 {
-  "dataVersion": 29,
-  "updatedAt": "2026-11-04",
+  "dataVersion": 30,
+  "updatedAt": "2026-11-21",
   "yearLabel": "2026年度",
   "titles": [
     {
@@ -11,13 +11,13 @@
       "term": 39,
       "bestOf": 7,
       "holder": "藤井聡太",
-      "holderTerms": 5,
+      "holderTerms": 6,
       "challenger": "服部慎一郎",
-      "status": "ongoing",
+      "status": "finished",
       "sponsor": "読売新聞社",
       "broadcast": "ABEMA・囲碁将棋プラスで中継予定",
-      "note": "挑戦者は服部慎一郎七段に決定(棋聖戦に続き自身2度目のタイトル挑戦)。七番勝負は10月9日開幕、全7局の日程・会場が発表済み。第3局も藤井竜王が制し開幕3連勝、6連覇に王手をかけた",
-      "holderWins": 3,
+      "note": "藤井竜王が4-0で防衛(6連覇)。史上初となる2期連続無敗防衛でV6を達成した",
+      "holderWins": 4,
       "challengerWins": 0,
       "games": [
         {
@@ -59,7 +59,9 @@
           "days": 2,
           "venue": "霧島創業記念館 吉助",
           "city": "宮崎県都城市",
-          "result": null
+          "result": "holder",
+          "opening": "角換わり",
+          "summary": "角換わりから服部が穴熊、藤井は右玉で対抗する接戦となったが、2日目に藤井竜王が制し、4連勝のストレートで防衛。史上初の2期連続無敗でV6を達成した。"
         },
         {
           "game": 5,
